@@ -1,11 +1,6 @@
 package com.tour.main;
 
 import java.util.Scanner;
-import com.tour.main.UserSubMenu;
-import com.tour.main.TourPackageSubMenu;
-import com.tour.main.BookingSubMenu;
-import com.tour.main.PaymentSubMenu;
-import com.tour.main.ReviewSubMenu;
 
 public class MainMenu {
 
